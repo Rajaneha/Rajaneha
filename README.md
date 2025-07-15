@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">A passionate data science student <3 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/YCZH.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/2GU.gif">
 
 - 🔭 I’m currently working on **integrating GenAI / LLM models** for intelligent automation and real-world use cases
 - 🌱 I’m currently learning about **GraphRAGs** and exploring how to leverage graphs for Retrieval-Augmented Generation in enterprise AI
