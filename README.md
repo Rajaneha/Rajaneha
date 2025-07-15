@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Neha</h1>
+<h3 align="center">A passionate data science student <3 </h3>
 
-<!--
-**Rajaneha/Rajaneha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/YCZH.gif">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **integrating GenAI / LLM models** for intelligent automation and real-world use cases
+- 🌱 I’m currently learning about **GraphRAGs** and exploring how to leverage graphs for Retrieval-Augmented Generation in enterprise AI
+- 💬 Ask me about **Python, Machine Learning, GenAI or Building Dashboards**
+- ⚡ Fun fact: I have a better relationship with my terminal than my phone.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajaneha&show_icons=true&theme=radical" alt="Neha's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajaneha&theme=radical" alt="Neha's GitHub streak"/>
+</p>
+
+---
+
+### 🧠 Top Skills & Interests:
+- 🎯 Data Science & ML
+- 📊 Data Visualization
+- 🧩 Generative AI & Chatbots
+- 📚 Teaching & Mentorship
+
+---
+
+### 🖼️ Fun Badges (optional)
+You can add badges using [Shields.io](https://shields.io/) or [SimpleIcons](https://simpleicons.org/)
+
+```markdown
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
