@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **integrating GenAI / LLM models** for intelligent automation and real-world use cases
 - 🌱 I’m currently learning about **GraphRAGs** and exploring how to leverage graphs for Retrieval-Augmented Generation in enterprise AI
 - 💬 Ask me about **Python, Machine Learning, GenAI or Building Dashboards**
-- - 📫 How to reach me: **[Gmail](rajaneha.r09@gmail.com)**
+- 📫 How to reach me: **[Gmail](rajaneha.r09@gmail.com)**
 - ⚡ Fun fact: I have a better relationship with my terminal than my phone.
 
 ---
