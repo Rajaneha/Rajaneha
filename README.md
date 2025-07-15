@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">A passionate data science student <3 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=keyword&page=1&position=6&uuid=19958493-ff68-484e-a60c-0333a0992616&query=Woman+Coding">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/YCZH.gif">
 
 - 🔭 I’m currently working on **integrating GenAI / LLM models** for intelligent automation and real-world use cases
 - 🌱 I’m currently learning about **GraphRAGs** and exploring how to leverage graphs for Retrieval-Augmented Generation in enterprise AI
 - 💬 Ask me about **Python, Machine Learning, GenAI or Building Dashboards**
+- - 📫 How to reach me: **[Gmail](rajaneha.r09@gmail.com)**
 - ⚡ Fun fact: I have a better relationship with my terminal than my phone.
 
 ---
