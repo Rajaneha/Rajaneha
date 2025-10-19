@@ -27,7 +27,6 @@
 ### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajaneha&show_icons=true&theme=radical" alt="Neha's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajaneha&theme=radical" alt="Neha's GitHub streak"/>
 </p>
 
 ---
